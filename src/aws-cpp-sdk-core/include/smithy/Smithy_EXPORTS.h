@@ -3,7 +3,7 @@
  * SPDX-License-Identifier: Apache-2.0.
  */
 #pragma once
-
+#include <exception>
 #ifdef _MSC_VER
 //disable windows complaining about max template size.
     #pragma warning (disable : 4503)
